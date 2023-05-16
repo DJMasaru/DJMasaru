@@ -9,21 +9,15 @@
 
 ・ライブラリ/フレームワーク
 
-　React.js
+　React.js（主にこちらです）
 
 　Vue.js
 
-・ツール
-
-　Vite
-
-　Webpack
- 
  ◎バックエンド
  
  ・言語
  
- 　PHP
+ 　PHP（Laravelを使っています）
   
   
 ## 趣味
