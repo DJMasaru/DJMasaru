@@ -36,13 +36,13 @@
 
 ・ライブラリ/フレームワーク
 
-Flutter(Dart言語)
+　Flutter(Dart言語)
 
  ◎バックエンド
  
  ・言語
  
-Firebase
+　Firebase
 
   
 ## 趣味
