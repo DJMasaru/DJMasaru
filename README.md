@@ -36,11 +36,11 @@
 
 ・ライブラリ/フレームワーク
 
-　Flutter(Dart言語)
+　Dart（Flutterを使っています)
 
  ◎バックエンド
  
- ・言語
+ ・プラットフォーム
  
 　Firebase
 
