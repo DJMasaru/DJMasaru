@@ -13,8 +13,6 @@
 
 　React.js（Next.jsです）
 
-　Vue.js
-
  ◎バックエンド
  
  ・言語
@@ -25,7 +23,11 @@
  
  ・クラウド
  
- 　AWS
+ 　AWS（S3・Amplify）
+
+ ・PaaS
+
+ 　fly.io
 
   
 ## 趣味
