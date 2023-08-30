@@ -27,14 +27,14 @@
 
  ・PaaS
 
- 　fly.io
+ 　Railway.app
 
   
 ## 趣味
 
 ◎アウトドア
 
-　・筋トレ（BIG3:BP60kg/SQ120kg/DL100kg　DLが一番好き）
+　・筋トレ（BIG3:BP50kg/SQ120kg/DL100kg　DLが一番好き）
  
 　・登山（主に関西圏で六甲山～有馬温泉ルートが好き⛰）
  
