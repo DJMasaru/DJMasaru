@@ -26,6 +26,7 @@
 ### 🧑‍💼 経営者コミュニティ Web アプリ  
 - Peatix と連携し、**イベント申込〜オフライン交流の導線を最適化**  
 - コミュニティ活性化に貢献
+- [Dig Community](https://app.dig-community.com/)
 
 ---
 
@@ -51,6 +52,7 @@
 ### 🕵️ ミステリーショッパー管理システム  
 - UX設計を強化  
 - **入力途中の離脱を防ぐ導線を設計**
+- [プレモニ](https://zeroplus-inc.com/lp/web/index.html)
 
 ---
 
