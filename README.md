@@ -1,67 +1,103 @@
-### Hi there ☺
+# 🎉 Welcome to my GitHub
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway.app-000000.svg?logo=railway&logoColor=white" />
+</p>
 
+---
 
+## 👋 About Me
 
-## 技術スタック
+元営業マン → Webエンジニアへ。  
+**「伝わる設計」と「使いやすさ」にとことんこだわるタイプ**です。
 
-■WEB開発
+- 難しい技術要件を“かみ砕いて説明する”のが得意  
+- 経営者・マーケチーム・デザイナーなど異職種と連携した開発経験  
+- 日常的に「どうすればもっと使いやすくなるか」を考えるタイプです
 
-◎フロントエンド
+---
 
-・ライブラリ/フレームワーク
+## 🚀 個人事業としての実績
 
-　TypeScript/Next.js
+### 🧑‍💼 経営者コミュニティ Web アプリ  
+- Peatix と連携し、**イベント申込〜オフライン交流の導線を最適化**  
+- コミュニティ活性化に貢献
 
- ◎バックエンド
- 
- ・言語
- 
- 　TypeScript,PHP（Laravelを使っています）
-  
- ◎サーバーサイド
- 
- ・クラウド
- 
- 　AWS
+---
 
- ・PaaS
+### 👰 多言語フォトウェディング ポータル  
+（日本語 / 英語 / 中国語）
+- 熊本県人吉市の地域活性プロジェクト  
+- パララックス等の**視覚効果を用いて世界観を演出**
 
- 　Railway.app
+---
 
-  
-## 趣味
+### 💻 LP サイト制作（デザイン完全再現）  
+- Figmaデザインを**高精度で再現する実装**  
+- Stocksun 様の案件に参画
 
-◎アウトドア
+---
 
-　・ランニングです！
+### 🎤 投げ銭ライブ配信モバイルアプリ  
+- React Native で開発  
+- マーケチームと連携し、**収益性の高いUI/UXを議論しながら改善を継続**
 
-◎インドア
+---
 
-　・DJ（テック・ハウス〜ビッグルームあたりが主戦場）
- 
-　・音楽鑑賞（EDMが好きです。鑑賞というか踊っています）
- 
-　・ガジェット探し（大阪の日本橋や東京の秋葉原でパソコングッズを漁りがちです）
- 
-## ひとこと
+### 🕵️ ミステリーショッパー管理システム  
+- UX設計を強化  
+- **入力途中の離脱を防ぐ導線を設計**
 
-元々は営業マンだったので口数は多いです👍
+---
 
-お気軽にどうぞ！
+### 💌 交際クラブ管理システム  
+- **リアルタイムチャット機能**を搭載  
+- 運営と利用者のコミュニケーションを効率化
 
+---
 
-<!--
-**DJMasaru/DJMasaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Google SpreadSheet 業務効率化ツール  
+- GASにより  
+  **「1時間の作業 → 自動化で即解決」** の改善を複数実現
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技術スタック
+
+### 🌐 Web 開発
+#### **フロントエンド**
+- TypeScript / React / Next.js  
+- HTML / CSS
+
+#### **バックエンド**
+- TypeScript（Node.js）  
+- PHP（Laravel）  
+- Ruby on Rails
+
+#### **モバイル**
+- React Native
+
+#### **クラウド / PaaS**
+- AWS Amplify  
+- Railway.app  
+- Supabase
+
+---
+
+## 🎧 趣味
+
+- **ランニング**（外に出ると頭がリセットされます）  
+- **音楽鑑賞**（テックハウス〜ビッグルーム）  
+- **ガジェット巡り**（秋葉原・日本橋で気付いたら散財）
+
+---
+
+## 💬 一言
+
+営業出身なので、**コミュニケーション量には自信があります👍**  
+お気軽にメッセージください！
+
