@@ -39,8 +39,9 @@
 
 ### 💻 LP サイト制作（デザイン完全再現）  
 - Figmaデザインを**高精度で再現する実装**  
-- Stocksun 様の案件に参画
+- Stocksun 様の案件にも参画
 - [ポケットSNS](https://stock-sun.com/pocket-sns/lp/)
+- [Casa di YUKIKO(大阪北新地のクラブ)](https://www.casa-di-yukiko.info/)
 
 ---
 
