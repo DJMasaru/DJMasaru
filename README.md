@@ -40,11 +40,12 @@
 ### 💻 LP サイト制作（デザイン完全再現）  
 - Figmaデザインを**高精度で再現する実装**  
 - Stocksun 様の案件に参画
+- [ポケットSNS](https://stock-sun.com/pocket-sns/lp/)
 
 ---
 
 ### 🎤 投げ銭ライブ配信モバイルアプリ  
-- React Native で開発  
+- React NativeとRuby On Rails で開発  
 - マーケチームと連携し、**収益性の高いUI/UXを議論しながら改善を継続**
 
 ---
